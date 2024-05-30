@@ -112,7 +112,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias contain="devcontainer open"
 alias explorer="explorer.exe ."
-alias aws="awsv2"
+#alias aws="awsv2"
 alias resource="source ~/.zshrc"
 alias gce="git commit --allow-empty -m"
 alias code="code ."
